@@ -9,17 +9,3 @@ Le succès de l'insémination est connu pour être largement influencé par les 
 Le défi du Hackathon vise à comprendre comment la durée de la copulation des moutons ainsi que d'autres paramètres affectent le succès de l'insémination artificielle.
 
 Nous sommes face à un problème de Machine Learning supervisé de classification, et censés constituer le jeu de données (features) d'une manière judicieuse afin d'optimiser le modèle voire les modèles adéquats qui prédisent la probabilité de succès de l'insémination artificielle des brebis à partir de différentes informations fournies, y compris les durées de copulation.
-
-Les informations fournies sont :
-
-L'identifiant des brebis
-La date de naissance des brebis
-La date de la dernière portée des brebis
-La taille de la dernière portée
-La durée de lactation
-La durée de gestation
-La dernière date et heure d'insémination
-L'identifiant des béliers qui ont augmenté les hormones chez les brebis
-L'identifiant des béliers porteurs des spermatozoïdes
-La date et l'heure de la copulation
-La durée de la copulation
